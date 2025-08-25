@@ -9,5 +9,5 @@ I will start use sourceTree!
 
 Creating a new branch is quick!
 
-quick & simple!
+quick AND simple
 
