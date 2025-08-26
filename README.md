@@ -12,3 +12,5 @@ Creating a new branch is quick!
 quick AND simple
 
 add merge-分支管理策略
+
+修复bug
