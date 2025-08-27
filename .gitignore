@@ -1,6 +1,6 @@
 # 创建文件并添加需要忽略的目录/文件
 # (-r 表示递归，因为 .history 是一个目录)
-echo ".history/" >> .gitignore
-echo "node_modules/" >> .gitignore
-echo ".vscode/" >> .gitignore
-echo "*.exe" >> .gitignore
+.history/
+node_modules/
+.vscode/
+*.exe
