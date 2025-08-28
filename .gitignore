@@ -1,0 +1,6 @@
+# 创建文件并添加需要忽略的目录/文件
+# (-r 表示递归，因为 .history 是一个目录)
+/.history/
+/node_modules/
+/.vscode/
+*.exe
