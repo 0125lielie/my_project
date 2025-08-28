@@ -2,7 +2,7 @@
 # @Author: Kin Lielie
 # @Date: 2025-08-25 20:47:26
 # @LastEditors: Kin Lielie
-# @LastEditTime: 2025-08-26 14:10:25
+# @LastEditTime: 2025-08-28 10:52:37
 # @Description: 
 
 '''
@@ -27,7 +27,6 @@
       ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
             佛祖保佑     永不宕机     永无BUG
 '''
-
 
 words = ['python', 'ai', 'web', 'hello']
 sorted_words = sorted(words, key=len)  # 按字符串长度排序
